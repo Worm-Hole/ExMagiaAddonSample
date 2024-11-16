@@ -1,0 +1,1 @@
+execute at @s run particle block stone ~ ~1 ~ 0.5 0.5 0.5 1 1 force @s

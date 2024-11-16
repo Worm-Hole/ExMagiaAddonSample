@@ -1,0 +1,1 @@
+give @s warped_fungus_on_a_stick{display:{Name:'{"text":"爆発の杖・セルフ","color":"gray"}',Lore:['{"text":"消費マナ:1000","color":"light_purple"}','{"text":"発動した位置で爆発が発生します。","color":"aqua"}']},Magia:{dir:"sampleexp:main/magia",id:"medius/sampleexp",click:{type:fungusstick},target:{dir:"sampleexp:main/target",type:"self",particle:"sample"}}} 1
